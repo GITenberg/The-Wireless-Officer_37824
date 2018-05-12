@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37824#The-Wireless-Officer
 gutenberg_issued: '2011-10-22'
 gutenberg_type: Text
 identifiers:
